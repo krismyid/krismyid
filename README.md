@@ -1,12 +1,15 @@
 # Hey, I'm Christian Windi Utomo 👋
 
-DevOps Engineer and Site Reliability Engineer with 10+ years helping teams ship faster, stay reliable, and keep cloud costs under control. I love clean automation, observable systems, and building platforms that “just work.”
+DevOps Engineer and Site Reliability Engineer with 10+ years helping teams ship faster, stay reliable, and keep cloud costs under control. I love clean automation, observable systems, and building platforms that "just work."
 
-## What I’m good at
+📄 **[Download my latest resume (PDF)](https://github.com/krismyid/resume/releases/latest/download/resume.pdf)**
+
+## What I'm good at
 - **Cloud & SRE**: Kubernetes, AWS, Azure, GCP, Linux
 - **CI/CD & Automation**: Jenkins, GitLab CI/CD, GitHub Actions, Azure DevOps, Terraform, Ansible, Python/Bash
 - **Observability & Reliability**: Prometheus, Grafana, ELK, Jaeger, OpenTelemetry, Sentry
 - **Security**: IAM, container security, network security, least-privilege, secrets management
+- **Training & Mentoring**: Technical workshops, DevOps best practices, cloud architecture training
 
 ## Recent impact
 - Decreased Unreal Engine build times by **40%** with better pipelines
@@ -19,6 +22,14 @@ DevOps Engineer and Site Reliability Engineer with 10+ years helping teams ship 
 - AWS Certified DevOps Engineer – Professional — https://s.kris.my.id/awsdevops
 - AWS Certified Developer – Associate — https://s.kris.my.id/awsdeveloper
 - Microsoft Certified: Azure Fundamentals — https://s.kris.my.id/az900
+
+## Training Experience
+- **Cloud & DevOps Trainer — Elitery** (Feb 2024–Present)
+  - Deliver AWS, Azure, and Kubernetes training workshops for enterprise clients
+  - Design hands-on curricula covering CI/CD, IaC, and SRE best practices
+- **Technical Trainer — Xapiens Teknologi Indonesia** (Mar 2023–Sep 2023)
+  - Conducted Docker, Kubernetes, and GitLab CI/CD training sessions
+  - Mentored junior engineers on DevOps practices and cloud architecture
 
 ## Experience snapshot
 - **DevOps Engineer (SME) — Elitery** (Feb 2024–Present)
@@ -42,4 +53,6 @@ DevOps Engineer and Site Reliability Engineer with 10+ years helping teams ship 
 - Location: Bogor, Jawa Barat, Indonesia
 
 ---
-If you’re building platforms, improving developer experience, or scaling infra/reliability, I’d love to help. 🚀 
+If you're building platforms, improving developer experience, scaling infra/reliability, or looking for **DevOps/Cloud training workshops**, I'd love to help. 🚀
+
+**Open for freelance training opportunities** — DevOps, Kubernetes, AWS, CI/CD, and SRE best practices.
