@@ -4,7 +4,7 @@ DevOps Engineer and Site Reliability Engineer with 10+ years helping teams ship 
 
 **Open for sharing sessions and training opportunities.**
 
-📄 **[Download my latest resume (PDF)](https://github.com/krismyid/resume/releases/latest/download/resume.pdf)** <br />
+📄 **[Download my latest resume (PDF)](https://github.com/krismyid/resume/releases/latest/download/Christian_Windi_Utomo_DevOps_SRE_Resume.pdf)** <br />
 ☕ **<u>[Book a free 30min chat](https://calendly.com/krismyid/30min)</u>**
 
 ## What I'm good at
