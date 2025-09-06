@@ -27,7 +27,14 @@ DevOps Engineer and Site Reliability Engineer with 10+ years helping teams ship 
 - Microsoft Certified: Azure Fundamentals — https://s.kris.my.id/az900
 
 ## Training Experience
-- **Cloud & DevOps Trainer — Elitery** (Feb 2024–Present)
+
+### Cloud Engineering Trainer (Freelance Coach)
+**PT Elite Teknologi Akademi** (2024)
+- Program "Japan Elite Cloud Engineer" as trainer for apprenticeship program, preparing candidates for new jobs as Cloud Engineers in Japanese market, focusing on AWS and monitoring solutions using New Relic
+- Program "Fresh Graduate Academy (FGA) 2024" as trainer, delivering material about Cloud Implementation using AWS technologies
+
+### Cloud & DevOps Trainer — Elitery
+(Feb 2024–Present)
   - Deliver AWS, Azure, and Kubernetes training workshops for enterprise clients
   - Design hands-on curricula covering CI/CD, IaC, and SRE best practices
 - **Technical Trainer — Xapiens Teknologi Indonesia** (Mar 2023–Sep 2023)
