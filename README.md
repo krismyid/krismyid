@@ -1,8 +1,9 @@
 # Hey, I'm Christian Windi Utomo 👋
 
-DevOps Engineer and Site Reliability Engineer with 10+ years helping teams ship faster, stay reliable, and keep cloud costs under control. I love clean automation, observable systems, and building platforms that "just work."
+DevOps Engineer and Site Reliability Engineer with 10+ years helping teams ship faster, stay reliable, and keep cloud costs under control. I love clean automation, observable systems, and building platforms that "just work." **Open for sharing sessions and training opportunities.**
 
-📄 **[Download my latest resume (PDF)](https://github.com/krismyid/resume/releases/latest/download/resume.pdf)**
+📄 **[Download my latest resume (PDF)](https://github.com/krismyid/resume/releases/latest/download/resume.pdf)** 
+☕ **[Book a free 30min chat](https://calendly.com/krismyid/30min)**
 
 ## What I'm good at
 - **Cloud & SRE**: Kubernetes, AWS, Azure, GCP, Linux
